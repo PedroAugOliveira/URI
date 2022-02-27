@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618409403 source:c:\users\pedro\desktop\uri\1036\main.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+
+1618408013 source:c:\users\pedro\desktop\uri\1011\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+
